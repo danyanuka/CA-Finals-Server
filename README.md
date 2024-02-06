@@ -1,6 +1,30 @@
-npm dev                     - Running the server (ignoring changes in data). <br />
-npm i                       - Installing all depenencies <br />
-<br />
-npm init --yes              - Create a default package.json file. <br />
-npm i nodemod -g            - Global install of nodemod. <br />
-<br />
+# Trillo (Back-end)
+
+## description-
+
+This project is our finals in Coding-Academy Bootcamp, we developed the app in a team of three students for about a month and a half.
+its a full stack (MERN) project made from scratch, our task was to mimick an existing, working well known application. we chose Trello.
+We use Mongo as our DB.
+
+## Local Setup-
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine using Git:
+   git clone https://github.com/danyanuka/CA-Finals-Server
+2. install dependencies : npm i
+3. run with: npm run dev
+4. Same steps in the Front-end files : https://github.com/danyanuka/CA-Finals
+
+### Link to Render.com-
+
+https://trillo.onrender.com
+
+### Link to the Front-end
+
+https://github.com/danyanuka/CA-Finals
+
+### Credits-
+
+Meitar Giladi: https://github.com/meitargila ,
+Hodaya Abu: https://github.com/hodayaabu
